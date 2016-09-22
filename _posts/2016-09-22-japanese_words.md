@@ -1,5 +1,9 @@
 ---
-published: false
+layout: post
+title: "日語豆單"
+categories: junk
+author: "Bart Simpson"
+meta: "Springfield"
 ---
 
 ### 2016.09.21
